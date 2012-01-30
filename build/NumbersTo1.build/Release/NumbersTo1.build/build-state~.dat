@@ -1,0 +1,1103 @@
+TNumbersTo1
+v7
+r0
+t287965538.760944
+cCheck dependencies
+cProcessInfoPlistFile /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Info.plist NumbersTo1-Info.plist
+cCopyStringsFile /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/mholden/Desktop/NumbersTo1/English.lproj/MainMenu.xib
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton60.png bluebutton60.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton70.png bluebutton70.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton83.png bluebutton83.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton100.png bluebutton100.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton128.png bluebutton128.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/cyanbutton60.png cyanbutton60.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/cyanbutton70.png cyanbutton70.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton60.png greenbutton60.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton70.png greenbutton70.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton83.png greenbutton83.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton100.png greenbutton100.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton128.png greenbutton128.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/magentabutton60.png magentabutton60.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/orangebutton60.png orangebutton60.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/orangebutton70.png orangebutton70.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/orangebutton83.png orangebutton83.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/purplebutton60.png purplebutton60.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/purplebutton70.png purplebutton70.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/purplebutton83.png purplebutton83.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/purplebutton100.png purplebutton100.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton60.png redbutton60.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton70.png redbutton70.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton83.png redbutton83.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton100.png redbutton100.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton128.png redbutton128.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton60.png yellowbutton60.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton70.png yellowbutton70.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton83.png yellowbutton83.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton100.png yellowbutton100.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton128.png yellowbutton128.png
+cCpResource build/Release/NumbersTo1.app/Contents/Resources/shuffle.png shuffle.png
+cProcessPCH /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-cfyjfjlamxaefrbnnsfyzfpgujcf/NumbersTo1_Prefix.pch.gch NumbersTo1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-edywsspzwntvfraxumqorbalrqvw/NumbersTo1_Prefix.pch.gch NumbersTo1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-fvjmubjdgploigbtjzlbpomjxfjb/NumbersTo1_Prefix.pch.gch NumbersTo1_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/main.o /Users/mholden/Desktop/NumbersTo1/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1AppDelegate.o /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/BoardView.o /Users/mholden/Desktop/NumbersTo1/BoardView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/MyButton.o /Users/mholden/Desktop/NumbersTo1/MyButton.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/main.o /Users/mholden/Desktop/NumbersTo1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1AppDelegate.o /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/BoardView.o /Users/mholden/Desktop/NumbersTo1/BoardView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1 normal x86_64
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/MyButton.o /Users/mholden/Desktop/NumbersTo1/MyButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/main.o /Users/mholden/Desktop/NumbersTo1/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1 normal i386
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1AppDelegate.o /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/BoardView.o /Users/mholden/Desktop/NumbersTo1/BoardView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/MyButton.o /Users/mholden/Desktop/NumbersTo1/MyButton.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1 normal ppc
+cCreateUniversalBinary /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1 normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app.dSYM /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1
+cTouch /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B663A6300000000000000EE
+t1264990819
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/mholden/Desktop/NumbersTo1/Board.h
+c000000004B707CED0000000000000450
+t1265663213
+s1104
+i<Cocoa/Cocoa.h>
+i"MyButton.h"
+
+N/Users/mholden/Desktop/NumbersTo1/BoardView.h
+c000000004B79998D0000000000000876
+t1266260365
+s2166
+i<Cocoa/Cocoa.h>
+i"Board.h"
+i"MyButton.h"
+
+N/Users/mholden/Desktop/NumbersTo1/BoardView.m
+c000000004B799B6C0000000000003BB1
+t1266260844
+s15281
+i"BoardView.h"
+
+N/Users/mholden/Desktop/NumbersTo1/English.lproj/InfoPlist.strings
+c000000004B69FE64000000000000002D
+t1265237604
+s45
+
+N/Users/mholden/Desktop/NumbersTo1/English.lproj/MainMenu.xib
+c000000004B7379400000000000037957
+t1265858880
+s227671
+
+N/Users/mholden/Desktop/NumbersTo1/MyButton.h
+c000000004B78F8E20000000000000809
+t1266219234
+s2057
+i<Cocoa/Cocoa.h>
+
+N/Users/mholden/Desktop/NumbersTo1/MyButton.m
+c000000004B78FAC10000000000001F26
+t1266219713
+s7974
+i"MyButton.h"
+
+N/Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.h
+c000000004B69FE640000000000000143
+t1265237604
+s323
+i<Cocoa/Cocoa.h>
+
+N/Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m
+c000000004B69FE64000000000000017B
+t1265237604
+s379
+i"NumbersTo1AppDelegate.h"
+
+N/Users/mholden/Desktop/NumbersTo1/NumbersTo1_Prefix.pch
+c000000004B69FE640000000000000097
+t1265237604
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/mholden/Desktop/NumbersTo1/bluebutton100.png
+c000000004B4178B70000000000000CCE
+t1262581943
+s3278
+
+N/Users/mholden/Desktop/NumbersTo1/bluebutton128.png
+c000000004B4053890000000000000D11
+t1262506889
+s3345
+
+N/Users/mholden/Desktop/NumbersTo1/bluebutton60.png
+c000000004B4181740000000000000C2C
+t1262584180
+s3116
+
+N/Users/mholden/Desktop/NumbersTo1/bluebutton70.png
+c000000004B4181530000000000000C4F
+t1262584147
+s3151
+
+N/Users/mholden/Desktop/NumbersTo1/bluebutton83.png
+c000000004B4181080000000000000C60
+t1262584072
+s3168
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/BoardView.o
+t1266272734
+s47624
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/MyButton.o
+t1266272734
+s28660
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1
+t1266272735
+s40756
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1.LinkFileList
+c000000004B79C9B800000000000001CE
+t1266272696
+s462
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1AppDelegate.o
+t1266272732
+s15292
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/main.o
+t1266272731
+s4840
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/BoardView.o
+t1266272737
+s54180
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/MyButton.o
+t1266272736
+s35460
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1
+t1266272738
+s44956
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1.LinkFileList
+c000000004B79C9B800000000000001CA
+t1266272696
+s458
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1AppDelegate.o
+t1266272735
+s15180
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/main.o
+t1266272734
+s4872
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/BoardView.o
+t1266272732
+s65676
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/MyButton.o
+t1266272731
+s46304
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1
+t1266272733
+s50040
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1.LinkFileList
+c000000004B79C9B800000000000001D6
+t1266272696
+s470
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1AppDelegate.o
+t1266272729
+s21104
+
+N/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/main.o
+t1266272729
+s5040
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app
+t1266272738
+s102
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app.dSYM
+t1266272738
+s102
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Info.plist
+t1266272696
+s895
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1
+t1266272738
+s143260
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/PkgInfo
+t1266272696
+s8
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1266272697
+s92
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/English.lproj/MainMenu.nib
+t1266272701
+s48422
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/bluebutton100.png
+t1266272698
+s3278
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/bluebutton128.png
+t1266272697
+s3345
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/bluebutton60.png
+t1266272698
+s3116
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/bluebutton70.png
+t1266272697
+s3151
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/bluebutton83.png
+t1266272697
+s3168
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/cyanbutton60.png
+t1266272698
+s3183
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/cyanbutton70.png
+t1266272697
+s3176
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/greenbutton100.png
+t1266272698
+s3441
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/greenbutton128.png
+t1266272698
+s3485
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/greenbutton60.png
+t1266272697
+s3194
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/greenbutton70.png
+t1266272697
+s3220
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/greenbutton83.png
+t1266272698
+s3277
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/magentabutton60.png
+t1266272698
+s3103
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/orangebutton60.png
+t1266272698
+s3215
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/orangebutton70.png
+t1266272698
+s3212
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/orangebutton83.png
+t1266272698
+s3214
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/purplebutton100.png
+t1266272698
+s3368
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/purplebutton60.png
+t1266272698
+s3194
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/purplebutton70.png
+t1266272698
+s3250
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/purplebutton83.png
+t1266272698
+s3275
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/redbutton100.png
+t1266272698
+s3332
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/redbutton128.png
+t1266272698
+s3504
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/redbutton60.png
+t1266272698
+s3126
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/redbutton70.png
+t1266272698
+s3154
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/redbutton83.png
+t1266272698
+s3162
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/shuffle.png
+t1266272698
+s4057
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/yellowbutton100.png
+t1266272698
+s3256
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/yellowbutton128.png
+t1266272698
+s3305
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/yellowbutton60.png
+t1266272698
+s3093
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/yellowbutton70.png
+t1266272698
+s3138
+
+N/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/yellowbutton83.png
+t1266272698
+s3156
+
+N/Users/mholden/Desktop/NumbersTo1/cyanbutton60.png
+c000000004B41914D0000000000000C6F
+t1262588237
+s3183
+
+N/Users/mholden/Desktop/NumbersTo1/cyanbutton70.png
+c000000004B41911F0000000000000C68
+t1262588191
+s3176
+
+N/Users/mholden/Desktop/NumbersTo1/greenbutton100.png
+c000000004B4179400000000000000D71
+t1262582080
+s3441
+
+N/Users/mholden/Desktop/NumbersTo1/greenbutton128.png
+c000000004B4054B10000000000000D9D
+t1262507185
+s3485
+
+N/Users/mholden/Desktop/NumbersTo1/greenbutton60.png
+c000000004B4180C30000000000000C7A
+t1262584003
+s3194
+
+N/Users/mholden/Desktop/NumbersTo1/greenbutton70.png
+c000000004B4180A10000000000000C94
+t1262583969
+s3220
+
+N/Users/mholden/Desktop/NumbersTo1/greenbutton83.png
+c000000004B4180810000000000000CCD
+t1262583937
+s3277
+
+N/Users/mholden/Desktop/NumbersTo1/magentabutton60.png
+c000000004B41923B0000000000000C1F
+t1262588475
+s3103
+
+N/Users/mholden/Desktop/NumbersTo1/main.m
+c000000004B69FE6400000000000000FF
+t1265237604
+s255
+i<Cocoa/Cocoa.h>
+
+N/Users/mholden/Desktop/NumbersTo1/orangebutton60.png
+c000000004B418FF20000000000000C8F
+t1262587890
+s3215
+
+N/Users/mholden/Desktop/NumbersTo1/orangebutton70.png
+c000000004B418FCC0000000000000C8C
+t1262587852
+s3212
+
+N/Users/mholden/Desktop/NumbersTo1/orangebutton83.png
+c000000004B418F940000000000000C8E
+t1262587796
+s3214
+
+N/Users/mholden/Desktop/NumbersTo1/purplebutton100.png
+c000000004B417C330000000000000D28
+t1262582835
+s3368
+
+N/Users/mholden/Desktop/NumbersTo1/purplebutton60.png
+c000000004B417D040000000000000C7A
+t1262583044
+s3194
+
+N/Users/mholden/Desktop/NumbersTo1/purplebutton70.png
+c000000004B417CCB0000000000000CB2
+t1262582987
+s3250
+
+N/Users/mholden/Desktop/NumbersTo1/purplebutton83.png
+c000000004B417C8D0000000000000CCB
+t1262582925
+s3275
+
+N/Users/mholden/Desktop/NumbersTo1/redbutton100.png
+c000000004B4179CA0000000000000D04
+t1262582218
+s3332
+
+N/Users/mholden/Desktop/NumbersTo1/redbutton128.png
+c000000004B4053430000000000000DB0
+t1262506819
+s3504
+
+N/Users/mholden/Desktop/NumbersTo1/redbutton60.png
+c000000004B4180440000000000000C36
+t1262583876
+s3126
+
+N/Users/mholden/Desktop/NumbersTo1/redbutton70.png
+c000000004B41801D0000000000000C52
+t1262583837
+s3154
+
+N/Users/mholden/Desktop/NumbersTo1/redbutton83.png
+c000000004B417FE50000000000000C5A
+t1262583781
+s3162
+
+N/Users/mholden/Desktop/NumbersTo1/shuffle.png
+c000000004B6A17910000000000000FD9
+t1265244049
+s4057
+
+N/Users/mholden/Desktop/NumbersTo1/yellowbutton100.png
+c000000004B4178FD0000000000000CB8
+t1262582013
+s3256
+
+N/Users/mholden/Desktop/NumbersTo1/yellowbutton128.png
+c000000004B4056850000000000000CE9
+t1262507653
+s3305
+
+N/Users/mholden/Desktop/NumbersTo1/yellowbutton60.png
+c000000004B4184030000000000000C15
+t1262584835
+s3093
+
+N/Users/mholden/Desktop/NumbersTo1/yellowbutton70.png
+c000000004B4183E40000000000000C42
+t1262584804
+s3138
+
+N/Users/mholden/Desktop/NumbersTo1/yellowbutton83.png
+c000000004B4183BB0000000000000C54
+t1262584763
+s3156
+
+N/var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-cfyjfjlamxaefrbnnsfyzfpgujcf/NumbersTo1_Prefix.pch.gch
+t1266272723
+s52868880
+
+N/var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-edywsspzwntvfraxumqorbalrqvw/NumbersTo1_Prefix.pch.gch
+t1266272723
+s55502640
+
+N/var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-fvjmubjdgploigbtjzlbpomjxfjb/NumbersTo1_Prefix.pch.gch
+t1266272729
+s52737616
+
+NNumbersTo1-Info.plist
+c000000004B69FE6400000000000003EA
+t1265237604
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287965496#287965496#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/BoardView.o /Users/mholden/Desktop/NumbersTo1/BoardView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287965532.057848
+e287965534.369660
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/BoardView.o
+x/Users/mholden/Desktop/NumbersTo1/BoardView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/mholden/Desktop/NumbersTo1/BoardView.m287965532#287965534#0(0"0(0#0#45"/Users/mholden/Desktop/NumbersTo1/BoardView.m4300885448#1495"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/i386 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-edywsspzwntvfraxumqorbalrqvw/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/BoardView.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/BoardView.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/MyButton.o /Users/mholden/Desktop/NumbersTo1/MyButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287965533.470164
+e287965534.825960
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/MyButton.o
+x/Users/mholden/Desktop/NumbersTo1/MyButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/mholden/Desktop/NumbersTo1/MyButton.m287965533#287965534#0(0"0(0#0#44"/Users/mholden/Desktop/NumbersTo1/MyButton.m4300885448#1493"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/i386 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-edywsspzwntvfraxumqorbalrqvw/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/MyButton.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/MyButton.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1AppDelegate.o /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287965531.558170
+e287965532.057734
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1AppDelegate.o
+x/Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m287965531#287965532#0(0"0(0#0#57"/Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m4300885448#1519"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/i386 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-edywsspzwntvfraxumqorbalrqvw/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1AppDelegate.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/main.o /Users/mholden/Desktop/NumbersTo1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287965531.122573
+e287965531.557710
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/main.o
+x/Users/mholden/Desktop/NumbersTo1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/mholden/Desktop/NumbersTo1/main.m287965531#287965531#0(0"0(0#0#40"/Users/mholden/Desktop/NumbersTo1/main.m4300885448#1485"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/i386 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-edywsspzwntvfraxumqorbalrqvw/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/main.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/main.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/BoardView.o /Users/mholden/Desktop/NumbersTo1/BoardView.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s287965535.150326
+e287965537.189355
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/BoardView.o
+x/Users/mholden/Desktop/NumbersTo1/BoardView.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/mholden/Desktop/NumbersTo1/BoardView.m287965535#287965537#0(0"0(0#0#45"/Users/mholden/Desktop/NumbersTo1/BoardView.m4300885448#1489"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/ppc -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-fvjmubjdgploigbtjzlbpomjxfjb/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/BoardView.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/BoardView.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/MyButton.o /Users/mholden/Desktop/NumbersTo1/MyButton.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s287965535.467887
+e287965536.643666
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/MyButton.o
+x/Users/mholden/Desktop/NumbersTo1/MyButton.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/mholden/Desktop/NumbersTo1/MyButton.m287965535#287965536#0(0"0(0#0#44"/Users/mholden/Desktop/NumbersTo1/MyButton.m4300885448#1487"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/ppc -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-fvjmubjdgploigbtjzlbpomjxfjb/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/MyButton.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/MyButton.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1AppDelegate.o /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s287965534.842228
+e287965535.467778
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1AppDelegate.o
+x/Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m287965534#287965535#0(0"0(0#0#57"/Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m4300885448#1513"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/ppc -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-fvjmubjdgploigbtjzlbpomjxfjb/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1AppDelegate.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/main.o /Users/mholden/Desktop/NumbersTo1/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s287965534.369771
+e287965534.842117
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/main.o
+x/Users/mholden/Desktop/NumbersTo1/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/mholden/Desktop/NumbersTo1/main.m287965534#287965534#0(0"0(0#0#40"/Users/mholden/Desktop/NumbersTo1/main.m4300885448#1479"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/ppc -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-fvjmubjdgploigbtjzlbpomjxfjb/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/main.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/BoardView.o /Users/mholden/Desktop/NumbersTo1/BoardView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287965529.975193
+e287965532.573862
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/BoardView.o
+x/Users/mholden/Desktop/NumbersTo1/BoardView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/mholden/Desktop/NumbersTo1/BoardView.m287965529#287965532#0(0"0(0#0#45"/Users/mholden/Desktop/NumbersTo1/BoardView.m4300885448#1501"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/x86_64 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-cfyjfjlamxaefrbnnsfyzfpgujcf/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/BoardView.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/BoardView.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/MyButton.o /Users/mholden/Desktop/NumbersTo1/MyButton.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287965529.976793
+e287965531.122333
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/MyButton.o
+x/Users/mholden/Desktop/NumbersTo1/MyButton.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/mholden/Desktop/NumbersTo1/MyButton.m287965529#287965531#0(0"0(0#0#44"/Users/mholden/Desktop/NumbersTo1/MyButton.m4300885448#1499"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/x86_64 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-cfyjfjlamxaefrbnnsfyzfpgujcf/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/MyButton.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/MyButton.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1AppDelegate.o /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287965529.484493
+e287965529.975100
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1AppDelegate.o
+x/Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m287965529#287965529#0(0"0(0#0#57"/Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m4300885448#1525"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/x86_64 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-cfyjfjlamxaefrbnnsfyzfpgujcf/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/NumbersTo1AppDelegate.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1AppDelegate.o0#
+
+CCompileC build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/main.o /Users/mholden/Desktop/NumbersTo1/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287965529.483022
+e287965529.974872
+r1
+xCompileC
+xbuild/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/main.o
+x/Users/mholden/Desktop/NumbersTo1/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/mholden/Desktop/NumbersTo1/main.m287965529#287965529#0(0"0(0#0#40"/Users/mholden/Desktop/NumbersTo1/main.m4300885448#1491"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/x86_64 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -include /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-cfyjfjlamxaefrbnnsfyzfpgujcf/NumbersTo1_Prefix.pch -c /Users/mholden/Desktop/NumbersTo1/main.m -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/mholden/Desktop/NumbersTo1/English.lproj/MainMenu.xib
+s287965496.636480
+e287965502.142907
+r1
+xCompileXIB
+x/Users/mholden/Desktop/NumbersTo1/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib287965496#287965502#0(0"0(0#0#60"/Users/mholden/Desktop/NumbersTo1/English.lproj/MainMenu.xib4300885448#317"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/English.lproj/MainMenu.nib /Users/mholden/Desktop/NumbersTo1/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s287965496.527612
+e287965497.738464
+r1
+xCopyStringsFile
+x/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings287965496#287965497#0(0"0(0#0#65"/Users/mholden/Desktop/NumbersTo1/English.lproj/InfoPlist.strings4300885448#360"    cd /Users/mholden/Desktop/NumbersTo1    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton100.png bluebutton100.png
+s287965497.744641
+e287965498.235676
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/bluebutton100.png
+xbluebutton100.png
+lSLF07#2@22"Copy bluebutton100.png287965497#287965498#0(0"0(0#0#51"/Users/mholden/Desktop/NumbersTo1/bluebutton100.png4300885448#344"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/bluebutton100.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton128.png bluebutton128.png
+s287965497.746449
+e287965498.141105
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/bluebutton128.png
+xbluebutton128.png
+lSLF07#2@22"Copy bluebutton128.png287965497#287965498#0(0"0(0#0#51"/Users/mholden/Desktop/NumbersTo1/bluebutton128.png4300885448#344"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/bluebutton128.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton60.png bluebutton60.png
+s287965497.738570
+e287965498.140735
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/bluebutton60.png
+xbluebutton60.png
+lSLF07#2@21"Copy bluebutton60.png287965497#287965498#0(0"0(0#0#50"/Users/mholden/Desktop/NumbersTo1/bluebutton60.png4300885448#343"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/bluebutton60.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton70.png bluebutton70.png
+s287965497.740109
+e287965498.140983
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/bluebutton70.png
+xbluebutton70.png
+lSLF07#2@21"Copy bluebutton70.png287965497#287965498#0(0"0(0#0#50"/Users/mholden/Desktop/NumbersTo1/bluebutton70.png4300885448#343"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/bluebutton70.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/bluebutton83.png bluebutton83.png
+s287965497.742651
+e287965497.972216
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/bluebutton83.png
+xbluebutton83.png
+lSLF07#2@21"Copy bluebutton83.png287965497#287965497#0(0"0(0#0#50"/Users/mholden/Desktop/NumbersTo1/bluebutton83.png4300885448#343"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/bluebutton83.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/cyanbutton60.png cyanbutton60.png
+s287965497.748455
+e287965498.213696
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/cyanbutton60.png
+xcyanbutton60.png
+lSLF07#2@21"Copy cyanbutton60.png287965497#287965498#0(0"0(0#0#50"/Users/mholden/Desktop/NumbersTo1/cyanbutton60.png4300885448#343"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/cyanbutton60.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/cyanbutton70.png cyanbutton70.png
+s287965497.750293
+e287965498.141227
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/cyanbutton70.png
+xcyanbutton70.png
+lSLF07#2@21"Copy cyanbutton70.png287965497#287965498#0(0"0(0#0#50"/Users/mholden/Desktop/NumbersTo1/cyanbutton70.png4300885448#343"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/cyanbutton70.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton100.png greenbutton100.png
+s287965497.972294
+e287965498.463597
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/greenbutton100.png
+xgreenbutton100.png
+lSLF07#2@23"Copy greenbutton100.png287965497#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/greenbutton100.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/greenbutton100.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton128.png greenbutton128.png
+s287965498.141426
+e287965498.463458
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/greenbutton128.png
+xgreenbutton128.png
+lSLF07#2@23"Copy greenbutton128.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/greenbutton128.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/greenbutton128.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton60.png greenbutton60.png
+s287965497.752095
+e287965497.968645
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/greenbutton60.png
+xgreenbutton60.png
+lSLF07#2@22"Copy greenbutton60.png287965497#287965497#0(0"0(0#0#51"/Users/mholden/Desktop/NumbersTo1/greenbutton60.png4300885448#344"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/greenbutton60.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton70.png greenbutton70.png
+s287965497.753912
+e287965498.141347
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/greenbutton70.png
+xgreenbutton70.png
+lSLF07#2@22"Copy greenbutton70.png287965497#287965498#0(0"0(0#0#51"/Users/mholden/Desktop/NumbersTo1/greenbutton70.png4300885448#344"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/greenbutton70.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/greenbutton83.png greenbutton83.png
+s287965497.968928
+e287965498.463880
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/greenbutton83.png
+xgreenbutton83.png
+lSLF07#2@22"Copy greenbutton83.png287965497#287965498#0(0"0(0#0#51"/Users/mholden/Desktop/NumbersTo1/greenbutton83.png4300885448#344"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/greenbutton83.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/magentabutton60.png magentabutton60.png
+s287965498.163629
+e287965498.546641
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/magentabutton60.png
+xmagentabutton60.png
+lSLF07#2@24"Copy magentabutton60.png287965498#287965498#0(0"0(0#0#53"/Users/mholden/Desktop/NumbersTo1/magentabutton60.png4300885448#346"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/magentabutton60.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/orangebutton60.png orangebutton60.png
+s287965498.191947
+e287965498.463756
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/orangebutton60.png
+xorangebutton60.png
+lSLF07#2@23"Copy orangebutton60.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/orangebutton60.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/orangebutton60.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/orangebutton70.png orangebutton70.png
+s287965498.206520
+e287965498.546997
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/orangebutton70.png
+xorangebutton70.png
+lSLF07#2@23"Copy orangebutton70.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/orangebutton70.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/orangebutton70.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/orangebutton83.png orangebutton83.png
+s287965498.209789
+e287965498.463998
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/orangebutton83.png
+xorangebutton83.png
+lSLF07#2@23"Copy orangebutton83.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/orangebutton83.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/orangebutton83.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/purplebutton100.png purplebutton100.png
+s287965498.469367
+e287965498.546760
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/purplebutton100.png
+xpurplebutton100.png
+lSLF07#2@24"Copy purplebutton100.png287965498#287965498#0(0"0(0#0#53"/Users/mholden/Desktop/NumbersTo1/purplebutton100.png4300885448#346"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/purplebutton100.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/purplebutton60.png purplebutton60.png
+s287965498.213778
+e287965498.546881
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/purplebutton60.png
+xpurplebutton60.png
+lSLF07#2@23"Copy purplebutton60.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/purplebutton60.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/purplebutton60.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/purplebutton70.png purplebutton70.png
+s287965498.235777
+e287965498.654867
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/purplebutton70.png
+xpurplebutton70.png
+lSLF07#2@23"Copy purplebutton70.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/purplebutton70.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/purplebutton70.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/purplebutton83.png purplebutton83.png
+s287965498.464079
+e287965498.546505
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/purplebutton83.png
+xpurplebutton83.png
+lSLF07#2@23"Copy purplebutton83.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/purplebutton83.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/purplebutton83.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton100.png redbutton100.png
+s287965498.547077
+e287965498.654251
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/redbutton100.png
+xredbutton100.png
+lSLF07#2@21"Copy redbutton100.png287965498#287965498#0(0"0(0#0#50"/Users/mholden/Desktop/NumbersTo1/redbutton100.png4300885448#343"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/redbutton100.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton128.png redbutton128.png
+s287965498.560545
+e287965498.654392
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/redbutton128.png
+xredbutton128.png
+lSLF07#2@21"Copy redbutton128.png287965498#287965498#0(0"0(0#0#50"/Users/mholden/Desktop/NumbersTo1/redbutton128.png4300885448#343"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/redbutton128.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton60.png redbutton60.png
+s287965498.503747
+e287965498.654992
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/redbutton60.png
+xredbutton60.png
+lSLF07#2@20"Copy redbutton60.png287965498#287965498#0(0"0(0#0#49"/Users/mholden/Desktop/NumbersTo1/redbutton60.png4300885448#342"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/redbutton60.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton70.png redbutton70.png
+s287965498.516736
+e287965498.655224
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/redbutton70.png
+xredbutton70.png
+lSLF07#2@20"Copy redbutton70.png287965498#287965498#0(0"0(0#0#49"/Users/mholden/Desktop/NumbersTo1/redbutton70.png4300885448#342"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/redbutton70.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/redbutton83.png redbutton83.png
+s287965498.532891
+e287965498.655346
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/redbutton83.png
+xredbutton83.png
+lSLF07#2@20"Copy redbutton83.png287965498#287965498#0(0"0(0#0#49"/Users/mholden/Desktop/NumbersTo1/redbutton83.png4300885448#342"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/redbutton83.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/shuffle.png shuffle.png
+s287965498.696158
+e287965498.713940
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/shuffle.png
+xshuffle.png
+lSLF07#2@16"Copy shuffle.png287965498#287965498#0(0"0(0#0#45"/Users/mholden/Desktop/NumbersTo1/shuffle.png4300885448#338"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/shuffle.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton100.png yellowbutton100.png
+s287965498.655426
+e287965498.713650
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/yellowbutton100.png
+xyellowbutton100.png
+lSLF07#2@24"Copy yellowbutton100.png287965498#287965498#0(0"0(0#0#53"/Users/mholden/Desktop/NumbersTo1/yellowbutton100.png4300885448#346"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/yellowbutton100.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton128.png yellowbutton128.png
+s287965498.683772
+e287965498.713806
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/yellowbutton128.png
+xyellowbutton128.png
+lSLF07#2@24"Copy yellowbutton128.png287965498#287965498#0(0"0(0#0#53"/Users/mholden/Desktop/NumbersTo1/yellowbutton128.png4300885448#346"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/yellowbutton128.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton60.png yellowbutton60.png
+s287965498.570032
+e287965498.654513
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/yellowbutton60.png
+xyellowbutton60.png
+lSLF07#2@23"Copy yellowbutton60.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/yellowbutton60.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/yellowbutton60.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton70.png yellowbutton70.png
+s287965498.593074
+e287965498.655108
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/yellowbutton70.png
+xyellowbutton70.png
+lSLF07#2@23"Copy yellowbutton70.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/yellowbutton70.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/yellowbutton70.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCpResource build/Release/NumbersTo1.app/Contents/Resources/yellowbutton83.png yellowbutton83.png
+s287965498.599408
+e287965498.714077
+r1
+xCpResource
+xbuild/Release/NumbersTo1.app/Contents/Resources/yellowbutton83.png
+xyellowbutton83.png
+lSLF07#2@23"Copy yellowbutton83.png287965498#287965498#0(0"0(0#0#52"/Users/mholden/Desktop/NumbersTo1/yellowbutton83.png4300885448#345"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/mholden/Desktop/NumbersTo1/yellowbutton83.png /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1 normal "x86_64 i386 ppc"
+s287965538.313800
+e287965538.379995
+r1
+xCreateUniversalBinary
+x/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@101"CreateUniversalBinary build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1 normal "x86_64 i386 ppc"287965538#287965538#0(0"0(0#0#49"/Users/mholden/Desktop/NumbersTo1/x86_64 i386 ppc4300885448#504"    cd /Users/mholden/Desktop/NumbersTo1    /usr/bin/lipo -create /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1 /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1 /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1 -output /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo10#
+
+CGenerateDSYMFile /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app.dSYM /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1
+s287965538.380100
+e287965538.699426
+r1
+xGenerateDSYMFile
+x/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app.dSYM
+x/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1
+lSLF07#2@105"GenerateDSYMFile build/Release/NumbersTo1.app.dSYM build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1287965538#287965538#0(0"0(0#0#88"/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo14300885448#233"    cd /Users/mholden/Desktop/NumbersTo1    /Developer/usr/bin/dsymutil /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/MacOS/NumbersTo1 -o /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app.dSYM0#
+
+CLd /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1 normal i386
+s287965534.826065
+e287965535.150091
+r1
+xLd
+x/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1
+xnormal
+xi386
+lSLF07#2@117"Link /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1287965534#287965535#0(0"0(0#0#0"4300885448#560"    cd /Users/mholden/Desktop/NumbersTo1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/mholden/Desktop/NumbersTo1/build/Release -F/Users/mholden/Desktop/NumbersTo1/build/Release -filelist /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo1.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/i386/NumbersTo10#
+
+CLd /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1 normal ppc
+s287965537.189579
+e287965538.313693
+r1
+xLd
+x/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1
+xnormal
+xppc
+lSLF07#2@116"Link /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1287965537#287965538#0(0"0(0#0#0"4300885448#557"    cd /Users/mholden/Desktop/NumbersTo1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/mholden/Desktop/NumbersTo1/build/Release -F/Users/mholden/Desktop/NumbersTo1/build/Release -filelist /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo1.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/ppc/NumbersTo10#
+
+CLd /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1 normal x86_64
+s287965532.573967
+e287965533.469932
+r1
+xLd
+x/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1
+xnormal
+xx86_64
+lSLF07#2@119"Link /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1287965532#287965533#0(0"0(0#0#0"4300885448#566"    cd /Users/mholden/Desktop/NumbersTo1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/mholden/Desktop/NumbersTo1/build/Release -F/Users/mholden/Desktop/NumbersTo1/build/Release -filelist /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo1.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/Objects-normal/x86_64/NumbersTo10#
+
+CProcessInfoPlistFile /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Info.plist NumbersTo1-Info.plist
+s287965496.491578
+e287965496.527508
+r1
+xProcessInfoPlistFile
+x/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Info.plist
+xNumbersTo1-Info.plist
+lSLF07#2@29"Process NumbersTo1-Info.plist287965496#287965496#0(0"0(0#0#55"/Users/mholden/Desktop/NumbersTo1/NumbersTo1-Info.plist4300885448#308"    cd /Users/mholden/Desktop/NumbersTo1    builtin-infoPlistUtility NumbersTo1-Info.plist -genpkginfo /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-cfyjfjlamxaefrbnnsfyzfpgujcf/NumbersTo1_Prefix.pch.gch NumbersTo1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287965502.143082
+e287965523.360394
+r1
+xProcessPCH
+x/var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-cfyjfjlamxaefrbnnsfyzfpgujcf/NumbersTo1_Prefix.pch.gch
+xNumbersTo1_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile NumbersTo1_Prefix.pch287965502#287965523#0(0"0(0#0#55"/Users/mholden/Desktop/NumbersTo1/NumbersTo1_Prefix.pch4300885448#1397"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/x86_64 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -c /Users/mholden/Desktop/NumbersTo1/NumbersTo1_Prefix.pch -o /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-cfyjfjlamxaefrbnnsfyzfpgujcf/NumbersTo1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-edywsspzwntvfraxumqorbalrqvw/NumbersTo1_Prefix.pch.gch NumbersTo1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287965502.144839
+e287965524.277037
+r1
+xProcessPCH
+x/var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-edywsspzwntvfraxumqorbalrqvw/NumbersTo1_Prefix.pch.gch
+xNumbersTo1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile NumbersTo1_Prefix.pch287965502#287965524#0(0"0(0#0#55"/Users/mholden/Desktop/NumbersTo1/NumbersTo1_Prefix.pch4300885448#1393"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/i386 -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -c /Users/mholden/Desktop/NumbersTo1/NumbersTo1_Prefix.pch -o /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-edywsspzwntvfraxumqorbalrqvw/NumbersTo1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-fvjmubjdgploigbtjzlbpomjxfjb/NumbersTo1_Prefix.pch.gch NumbersTo1_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s287965523.360867
+e287965529.482786
+r1
+xProcessPCH
+x/var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-fvjmubjdgploigbtjzlbpomjxfjb/NumbersTo1_Prefix.pch.gch
+xNumbersTo1_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile NumbersTo1_Prefix.pch287965523#287965529#0(0"0(0#0#55"/Users/mholden/Desktop/NumbersTo1/NumbersTo1_Prefix.pch4300885448#1388"    cd /Users/mholden/Desktop/NumbersTo1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-generated-files.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-own-target-headers.hmap -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-all-target-headers.hmap -iquote /Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/NumbersTo1-project-headers.hmap -F/Users/mholden/Desktop/NumbersTo1/build/Release -I/Users/mholden/Desktop/NumbersTo1/build/Release/include -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources/ppc -I/Users/mholden/Desktop/NumbersTo1/build/NumbersTo1.build/Release/NumbersTo1.build/DerivedSources -c /Users/mholden/Desktop/NumbersTo1/NumbersTo1_Prefix.pch -o /var/folders/tY/tYaaB2h7G1uv1QtwyP9izk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumbersTo1_Prefix-fvjmubjdgploigbtjzlbpomjxfjb/NumbersTo1_Prefix.pch.gch0#
+
+CTouch /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app
+s287965538.699641
+e287965538.760890
+r1
+xTouch
+x/Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app
+lSLF07#2@68"Touch /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app287965538#287965538#0(0"0(0#0#0"4300885448#126"    cd /Users/mholden/Desktop/NumbersTo1    /usr/bin/touch -c /Users/mholden/Desktop/NumbersTo1/build/Release/NumbersTo1.app0#
+
